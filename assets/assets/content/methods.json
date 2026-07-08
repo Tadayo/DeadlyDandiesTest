@@ -1,0 +1,490 @@
+[
+  {
+    "id": "method_artillery",
+    "name": "Artillery",
+    "effectAdventuring": "Spend a Method: you launch yourself, an ally, or supplies into a situation.",
+    "effectCombat": "Spend a Method: Target a 2 space radius, at the end of the next round, Each creature in the location takes {Half Level d12} Damage.",
+    "epicAdvantagesID": "epic_method_artillery"
+  },
+  {
+    "id": "method_artist",
+    "name": "Artist",
+    "effectAdventuring": "Use a Method: Create a work of art that distracts anyone who sees it for at least a moment. You must describe the work, and defend that it is art to anyone you hear that claims otherwise.",
+    "effectCombat": "Use a Method: Create artwork in an adjacent free space. The artwork is a barrier. Whenever an ally is within {Half Level} of an artwork, they gain +1 to Wis, Int, & Cha defenses and +1 to Study, Create, & Convince.",
+    "epicAdvantagesID": "epic_method_artist"
+  },
+  {
+    "id": "method_aside",
+    "name": "Aside",
+    "effectAdventuring": "In any scene or situation you are in, use a method: you may interject and force your ally or anyone talking to your ally, to step to the side and engage in a one on one talk with you for a few seconds. When you do, you must lead the talk with a question and the other party has no obligation to be truthful.",
+    "effectCombat": "Use a method, Target an enemy you can see and begin concentrating. You and that enemy can only target each other, and anyone else attacking either of you has disadvantage.",
+    "epicAdvantagesID": "epic_method_aside"
+  },
+  {
+    "id": "method_assistant",
+    "name": "Assistant",
+    "effectAdventuring": "Instead of making a skill check, use a method: your assistant does the check and automatically succeeds. Then make a Cha defense, on Problems, you must explain what problem your shortsighted assistant caused while they were succeeding at their task. Your assistant will only help you with skills related to your background or that you are proficient in.",
+    "effectCombat": "Use a Method: Your assistant helps you when you're in a bind. They can end 1 of the following effects, Prone, Restrained, Disabled, or Stunned.",
+    "epicAdvantagesID": "epic_method_assistant"
+  },
+  {
+    "id": "method_body_hacker",
+    "name": "Body Hacker",
+    "effectAdventuring": "Use a Method: You can hack a person you can see, getting their visual information for the rest of the scene or situation.",
+    "effectCombat": "Use a Method: Target 1 enemy. While concentrating: You and your allies gain +1 Bonus to attack results against the target and defense results caused by the target.",
+    "epicAdvantagesID": "epic_method_body_hacker"
+  },
+  {
+    "id": "method_charitable",
+    "name": "Charitable",
+    "effectAdventuring": "Use a Method: You get into any party, club, event, restaurant, celebration, or publicly accessible place where people are mingling. When you do, you must explain how your charity work linked you to someone who can get you in.",
+    "effectCombat": "Use a Method: Until you make an attack or skill check, you have advantage on defenses. You must act indignantly when attacked.",
+    "epicAdvantagesID": "epic_method_charitable"
+  },
+  {
+    "id": "method_chef",
+    "name": "Chef",
+    "effectAdventuring": "When you first meet an NPC, use a method: you give them a snack. You have a +1 to convince results until you become a threat to them.",
+    "effectCombat": "Use a Method: gain a snack or give an ally a snack that when eaten heals {Half Level d12}. You may eat a snack at any time during your turn.",
+    "epicAdvantagesID": "epic_method_chef",
+    "resources": [
+      {
+        "name": "Snack"
+      }
+    ]
+  },
+  {
+    "id": "method_chill",
+    "name": "Chill",
+    "effectAdventuring": "Whenever you can rest, use a method: you chill. You and all your allies have advantage on rest rolls, and either remove 1 exhaustion, or stress.",
+    "effectCombat": "Use a Method: You relax yourself and all your allies gaining +1 to either your next Skill or Defense check.",
+    "epicAdvantagesID": "epic_method_chill"
+  },
+  {
+    "id": "method_dark_forces",
+    "name": "Dark Forces",
+    "effectAdventuring": "Use a method: You call upon unnatural power to immediately solve a problem that would require a skill check. In a later scene or situation, the DM may remind you of your request, and you must describe an ironic problem to face now.",
+    "effectCombat": "Use a method: Target 1 enemy you can see. You and the target gain either, {Level d6} bleed or burn, or Until the end of your next turn are Restrained, Disabled, or Stunned.",
+    "epicAdvantagesID": "epic_method_dark_forces"
+  },
+  {
+    "id": "method_death_weaver",
+    "name": "Death Weaver",
+    "effectAdventuring": "Use a Method: Remind a character of their mortality without malice and compel them to engage in something they wish to do before dying. Describe what they go to do.",
+    "effectCombat": "Use a Method: Target 2 Creatures you can see and deal {Half Level d12} Damage to them. You may target yourself.",
+    "epicAdvantagesID": "epic_method_death_weaver"
+  },
+  {
+    "id": "method_doom",
+    "name": "Doom",
+    "effectAdventuring": "Use a method: You doom anyone you can see, by saying doom and then describing a purely negative fate that will befall them. The fate you doom them to will happen at an unknown time and whatever fate you choose will also happen to a random party member at an unknown time. Anyone who is doomed knows they are doomed, roll for the ally, including you, when you use this.",
+    "effectCombat": "Use a Method: Randomly target 1 character of each faction involved in the combat, and doom them. Until the end of your next turn or for as long as you concentrate, all attacks against the targets deal {Half Level d8} extra damage.",
+    "epicAdvantagesID": "epic_method_doom"
+  },
+  {
+    "id": "method_disappear",
+    "name": "Disappear",
+    "effectAdventuring": "Use a Method: You throw a flash smoke bomb at your feet, momentarily concealing yourself from view from people and cameras. If you were able to become concealed during that time, you may make a Conceal to hide, On problem or if you couldn’t hide, describe where you failed to hide that was obviously a bad pick in hindsight.",
+    "effectCombat": "Use a Method: You become hidden until the start of your next turn. At that time, if you are still concealed, you may remain hidden.",
+    "epicAdvantagesID": "epic_method_disappear"
+  },
+  {
+    "id": "method_drone",
+    "name": "Drone",
+    "effectAdventuring": "Use a method: You or an ally regains 1 supply from a drone delivery.",
+    "effectCombat": "When you use an ability using your [Action] or a [Reaction] during your or ally turns, Use a Method: use a drone to target the ability from any free space, and gain a +1 to attack & check results.",
+    "epicAdvantagesID": "epic_method_drone"
+  },
+  {
+    "id": "method_fire_weaver",
+    "name": "Fire Weaver",
+    "effectAdventuring": "Use a Method: Set fire to any object you can see. You cannot conceal that you started the fire.",
+    "effectCombat": "Use a Method: Target Yourself or An ally and give {Half Level} d6 Burn vs Dex damage to all enemies adjacent to the target. You may also deal {Half Level d6} damage to the enemy but must also deal that damage to the target. The target may also choose to gain the burn and gain {Half Level} bonus speed as long as they have the burn.",
+    "epicAdvantagesID": "epic_method_fire_weaver"
+  },
+  {
+    "id": "method_friends",
+    "name": "Friends",
+    "effectAdventuring": "When you enter a place with multiple unmet characters, Use a Method: you can run into a casual friend you have met. Explain where you met them and a joke from that meeting.",
+    "effectCombat": "When you are attacked by an enemy you haven’t attacked in this situation, Use a Method: mention that you are friends with someone you both know and get advantage on the defense.",
+    "epicAdvantagesID": "epic_method_friends"
+  },
+  {
+    "id": "method_friends_in_the_shadows",
+    "name": "Friends in the Shadows",
+    "effectAdventuring": "When you succeed a Conceal check to hide yourself, Use a Method: your allies may also succeed to conceal themselves. When you become revealed, you must say something ominous, then your friends become revealed.",
+    "effectCombat": "Whenever an ally becomes hidden or starts their turn hidden, Use a Method: you teleport them to a free space adjacent to you.",
+    "epicAdvantagesID": "epic_method_friends_in_the_shadows"
+  },
+  {
+    "id": "method_goons",
+    "name": "Goons",
+    "effectAdventuring": "Use a Method: You have {Level} Goons under your command during the scene. You can send a goon to attempt any check with a 1d6, or to do any task an average person in the setting can do. Each goon is good for one task and is willing to do harm and attack. When the goon rolls a 1 on a skill, the problems affect you rather than the goon.",
+    "effectCombat": "When you succeed on an attack, Use a Method: have a medium sized Goon grapple 1 of the targets. The goon has 1 health and uses your defenses. At the start of your turn, make an attack roll for each grappling goon and deal {Level d6} damage. When the goon is no longer grappling they retreat.\nGenerally, Goons are Medium Pawn Chumps of the player’s level.",
+    "epicAdvantagesID": "epic_method_goons",
+    "resources": [
+      {
+        "name": "Goons",
+        "maxCalculation": "{Level}"
+      }
+    ]
+  },
+  {
+    "id": "method_gremlin",
+    "name": "Gremlin",
+    "effectAdventuring": "Use a method: You cause a device to catastrophically fail to your benefit by explaining what breaks and how it helps.",
+    "effectCombat": "Use a method: Target an enemy you can see and a part of their body malfunctions. You and your allies have a +1 to attacks vs Str, Dex, and Vit, and defense from attacks that target the same defense until the target spends an action succeeding on a Create Check to fix it.",
+    "epicAdvantagesID": "epic_method_gremlin"
+  },
+  {
+    "id": "method_hemomancer",
+    "name": "Hemomancer",
+    "effectAdventuring": "If you have blood, vital essence, or any physical evidence left from a wound from a character. Use a method: see the current location of the character.",
+    "effectCombat": "After you succeed with a melee attack, Use a method: heal {half Level d8}.\nNova: Use a Method: Lose {Half Level d6} health ignoring shield and resistance then deal {Half level d12} damage to enemies within {Half Level} that ignores shield and resistance.",
+    "epicAdvantagesID": "epic_method_hemomancer"
+  },
+  {
+    "id": "method_ice_weaver",
+    "name": "Ice Weaver",
+    "effectAdventuring": "Use a Method: Freeze an object solid, temporarily disabling it from use. You may unfreeze it at any time.",
+    "effectCombat": "Use a Method: Target a {Half Level} space radius and give all enemies there {One Third Level} cold.",
+    "epicAdvantagesID": "epic_method_ice_weaver"
+  },
+  {
+    "id": "method_irritation",
+    "name": "Irritation",
+    "effectAdventuring": "Use a Method: You force someone you can see to lose their temper to your benefit.",
+    "effectCombat": "Use a Method: Target 1 enemy that can hear or see you. Until the start of your next turn or as long as you remain concentrating, On the target’s turn they must target you with an attack if able.",
+    "epicAdvantagesID": "epic_method_irritation"
+  },
+  {
+    "id": "method_life_weaver",
+    "name": "Life Weaver",
+    "effectAdventuring": "Use a Method: Heal or treat a wound or illness.",
+    "effectCombat": "During your ally turns, Use a Method: Target yourself and all allies range 4, heal them {Half Level d6}. At the end of your next turn, repeat the heal.",
+    "epicAdvantagesID": "epic_method_life_weaver"
+  },
+  {
+    "id": "method_lightning_weaver",
+    "name": "Lightning Weaver",
+    "effectAdventuring": "Use a Method: Either power any electrical device. Disable the power to a building or ship.",
+    "effectCombat": "Use a Method: Target each enemy in a 1 space radius and deal {Half Level d6} Damage and knock them prone. If they are already prone, they take {Level d6} damage instead.",
+    "epicAdvantagesID": "epic_method_lightning_weaver"
+  },
+  {
+    "id": "method_marketing",
+    "name": "Marketing",
+    "effectAdventuring": "Use a Method: You force a popup ad on all characters who can see you, momentarily distracting them. You must describe what the ad is.",
+    "effectCombat": "Use a Method: You cover yourself in Ad holograms. You and your allies have +1 to attacks against and defenses from enemies within {Half Level} spaces of you.",
+    "epicAdvantagesID": "epic_method_marketing"
+  },
+  {
+    "id": "method_martial_artist",
+    "name": "Martial Artist",
+    "effectAdventuring": "Whenever you would need to make a defense, Use a Method: make an attack roll instead to determine if you defend. You must explain how you use martial arts to defend yourself from the threat.",
+    "effectCombat": "Use a Method: Either, Deal {Level d6} damage to 1 enemy range 1. Or until the start of your next turn, standing from prone costs you 1 movement (Easy Prone). After succeeding any attack, defense, or skill, you may dash 1 space.",
+    "epicAdvantagesID": "epic_method_martial_artist"
+  },
+  {
+    "id": "method_necromancer",
+    "name": "Necromancer",
+    "effectAdventuring": "Use a Method: You create an undead minion who will go out to perform a single check using your skills. These undead minions can move as ghosts and wait for any length of time before emerging and doing the check. Describe how they jump scare anyone related to the check. Your minions can kill, and may attack instead of a skill.",
+    "effectCombat": "Create 1 undead in a free space range 6 and make an attack to have it grapple an adjacent enemy. You may have up to a max of {Level / 3} undead. Undead are medium pawn chumps that use your defenses. Whenever an enemy provokes an attack from an undead, they are grappled instead. If a creature ends its turn grappled by an undead, it takes {Level d10} damage. During your turn, you may move each undead 4 spaces, and may make an attack to grapple with any undead that are within 1 of an enemy. Undead last for the situation. When your undead dies, during your turn, have it arise in a free space adjacent to you, it may then move and attack as normal.",
+    "epicAdvantagesID": "epic_method_necromancer",
+    "resources": [
+      {
+        "name": "Undead",
+        "maxCalculation": "{Level / 3}"
+      }
+    ]
+  },
+  {
+    "id": "method_offline_chat",
+    "name": "Offline Chat",
+    "effectAdventuring": "Use a Method: You stop everything and have a brief chat with your whole party, while the servers restart.",
+    "effectCombat": "Use a Method: You stop everything and have a brief chat with your whole party, while the servers restart.",
+    "epicAdvantagesID": "epic_method_offline_chat"
+  },
+  {
+    "id": "method_oppose",
+    "name": "Oppose",
+    "effectAdventuring": "Use a method: You organize a non violent protest at a location for a cause of your choice. There are always some people who protest but the size of the event can vary based on the cause and who is being protested.",
+    "effectCombat": "When you start your turn if there is an enemy effect that is reducing your speed, restraining, Disabled, Grappling, or Prone. Use a Method: End the effect and you deal {half Level d6} damage on your next attack against the causing enemy.",
+    "epicAdvantagesID": "epic_method_oppose"
+  },
+  {
+    "id": "method_otherworldly",
+    "name": "Otherworldly",
+    "effectAdventuring": "Use a Method: You reveal your otherworldly form, describing what’s unworldly about you. Anyone who sees it will doubt their own memory and people won’t believe their testimony about the events you do while you're in your otherworldly form.",
+    "effectCombat": "Use a Method: While concentrating, you gain resistance to attacks targeting Int, Wis, and Cha. The first time each round for each enemy, when they start their turn or become within 3 spaces of you, they take {Half Level d6} damage vs Int.",
+    "epicAdvantagesID": "epic_method_otherworldly"
+  },
+  {
+    "id": "method_phasing",
+    "name": "Phasing",
+    "effectAdventuring": "If you have to make a defense but have not made any checks in this scene, Use a method: and succeed on the defense. Describe how you phased to avoid the check and doing this counts as a check for future defenses.",
+    "effectCombat": "At the start of the round, Use a method: you may not be targeted with attacks until you have finished your turn and during your turn you do not provoke attacks and may move through enemy spaces. You may not use phasing when surprised.",
+    "epicAdvantagesID": "epic_method_phasing"
+  },
+  {
+    "id": "method_pocket_sand",
+    "name": "Pocket Sand",
+    "effectAdventuring": "Use a method: You pocket sand someone incapacitating them momentarily or allowing you to reroll a defense from an attack.",
+    "effectCombat": "Use a method: Target an enemy range 3, you & allies have advantage on defenses from that enemy and you & allies don’t provoke attacks from that enemy until the start of your next turn.",
+    "epicAdvantagesID": "epic_method_pocket_sand"
+  },
+  {
+    "id": "method_poisoner",
+    "name": "Poisoner",
+    "effectAdventuring": "Use a method: You poison a character by describing in what way you got them to consume the poison. The poison can:\nparalyze them briefly,\ncause them to vomit for a bit,\nhallucinate for a while.\nto sleep till tomorrow.",
+    "effectCombat": "When you fail a defense from an attack, Use a method: give poison to an enemy within 1. At the end of their turn, make a Status Check vs Vit, On problems the effect ends. When you pick this, pick one of these effects.",
+    "epicAdvantagesID": "epic_method_poisoner",
+    "options": [
+      {
+        "name": "Slow",
+        "effect": "Reduce their speed by {Half Level}."
+      },
+      {
+        "name": "Weaken",
+        "effect": "You and allies resist damage caused by the target."
+      },
+      {
+        "name": "Deadly",
+        "effect": "The targets take {Half Level d8} damage."
+      },
+      {
+        "name": "Disable",
+        "effect": "Choose a defense, you and your allies have advantage on attacks targeting that defense against the target.",
+        "choicePrompt": "Defense",
+        "choices": [
+          "Str",
+          "Dex",
+          "Vit",
+          "Int",
+          "Wis",
+          "Cha"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "method_protector",
+    "name": "Protector",
+    "effectAdventuring": "Before an ally in a scene with you makes a defense, Use a method: you may make the defense instead, becoming the target.",
+    "effectCombat": "Use a method: Gain {Vitality d6} Protection. As long as you have Protection, if you or an ally within 3 spaces would take damage, you may lose Protection as if it was Shield. You cannot have more protection than your max shield.",
+    "epicAdvantagesID": "epic_method_protector",
+    "resources": [
+      {
+        "name": "Protection"
+      }
+    ]
+  },
+  {
+    "id": "method_quick_talker",
+    "name": "Quick Talker",
+    "effectAdventuring": "When you fail a convince, Use a Method: you toss to a present ally and have them try to convince both verbally then by rolling. If an ally fails to convince, you may step in and attempt to convince. Quick talker may only be applied to a roll 1 time.",
+    "effectCombat": "When you fail a defense, Use a Method: you may have an adjacent ally become the target and make a defense. When an adjacent ally fails a defense, you may become the target and make a defense. Quick talker may not be applied more than once per attack.",
+    "epicAdvantagesID": "epic_method_quick_talker"
+  },
+  {
+    "id": "method_rainbow_weaver",
+    "name": "Rainbow Weaver",
+    "effectAdventuring": "Use a Method: Until the end of the scene, the first time you make a skill check with each of the skills, gain a +1 to the result.",
+    "effectCombat": "When you succeed an attack, Use a method: do one of the below based on which defense the attack targets.\nStr: knock the targets prone and push them {Half Level} spaces.\nDex: Give the targets {Half Level} d6 Bleed.\nVit: Give the targets {Half Level} d6 burn.\nInt: deal {Half Level d6} damage to enemies within 2 of the target, excluding the target.\nWis: reduce the target's speed by {Half Level} until the start of your next turn.\nCha: Give an ally range {Level} of the target or you, {Half Level d6} shield.",
+    "epicAdvantagesID": "epic_method_rainbow_weaver"
+  },
+  {
+    "id": "method_scooch",
+    "name": "Scooch",
+    "effectAdventuring": "Use a Method: You move any object or character to any place they can fit in the same room.",
+    "effectCombat": "Use a Method: Until the end of your turn, You move any object or character adjacent to you to another free space adjacent to you where they can fit. You may only move each target 1 time.",
+    "epicAdvantagesID": "epic_method_scooch"
+  },
+  {
+    "id": "method_scoundrel",
+    "name": "Scoundrel",
+    "effectAdventuring": "Use a method: you hardware lock another character into their current body until they can get to the spawner. You have +1 to checks to threaten them. You need to get close or surprise them to lock them.",
+    "effectCombat": "If you make an attack with a single target and either: have advantage or at least 1 ally adjacent to the target, Use a Method: Deal {Half Level d8} extra damage and either: Restrain, or Disable them until the start of your next turn.",
+    "epicAdvantagesID": "epic_method_scoundrel"
+  },
+  {
+    "id": "method_smite",
+    "name": "Smite",
+    "effectAdventuring": "After a character makes an ally make a defense check, Use a method: smite them. Smite is either a successful attack or For the remainder of the scene, your allies have +1 to defenses caused by the character.",
+    "effectCombat": "Target 1 enemy and deal {Half Level d12} damage.",
+    "epicAdvantagesID": "epic_method_smite"
+  },
+  {
+    "id": "method_snatch",
+    "name": "Snatch",
+    "effectAdventuring": "Use a Method: You make any one object that you held in one hand today fly to your hand. It must have a clear path, and will not harm you or anyone else by its flight. A container that can be held in one hand is a valid target and will bring the contents without harming them.",
+    "effectCombat": "Use a Method: You cause an unheld carriable object range {Level} to teleport to your hand.",
+    "epicAdvantagesID": "epic_method_snatch"
+  },
+  {
+    "id": "method_soul_adorn",
+    "name": "Soul Adorn",
+    "effectAdventuring": "When you kill someone, Use a Method: you steal their appearance for the remainder of the scene.",
+    "effectCombat": "Use a method: become soul adorn until the end of the situation gaining 1 soul shard. At the end of the round, if at least 1 character died that round, gain 1 soul shard up to {2 * Level} max shards. Then gain {Soul Shards d6} shield and Either: pull an enemy you can see {2 * Soul Shards} spaces, or force an enemy you can see to move {Soul Shards} Spaces.\nDestroy Soul Shard: At the end of an enemy’s turn, if you can see the enemy, Either, Pull them {2 * Soul Shards} spaces or force them to move {Soul Shards} spaces then lose 1 Soul Shard.\nYou lose all soul shards at the end of the encounter. Taking soul shard generating methods multiple times doesn’t increase the number of shards you gain per round or start with.",
+    "epicAdvantagesID": "epic_method_soul_adorn",
+    "resources": [
+      {
+        "name": "Soul Shards",
+        "maxCalculation": "{2 * Level}",
+        "statProviderID": "Soul Shards"
+      }
+    ]
+  },
+  {
+    "id": "method_soul_feaster",
+    "name": "Soul Feaster",
+    "effectAdventuring": "When you kill someone, Use a method: you feast on their soul. You gain rest, and reduce 1 stress.",
+    "effectCombat": "Spend a method and become a soul feaster until the end of the situation gaining 1 soul shard. At the end of the round, if at least 1 character died that round, gain 1 soul shard up to {2 * Level} max shards. Then heal {Soul Shards d6}. If you are then full health gain {Half Soul Shards} speed.\nDestroy Soul Shard: After taking damage, you may heal {Soul Shards d6} then lose 1 soul shard. You must survive the attack to use this.\nYou lose all soul shards at the end of the encounter. Taking soul shard generating methods multiple times doesn’t increase the number of shards you gain per round or start with.",
+    "epicAdvantagesID": "epic_method_soul_feaster",
+    "resources": [
+      {
+        "name": "Soul Shards",
+        "maxCalculation": "{2 * Level}",
+        "statProviderID": "Soul Shards"
+      }
+    ]
+  },
+  {
+    "id": "method_soul_reaper",
+    "name": "Soul Reaper",
+    "effectAdventuring": "After killing someone, Use a method: become invisible and silent for a short time.",
+    "effectCombat": "Use a method: become a Soul Reaper until the end of the situation gaining 1 soul shard. At the end of the round, if at least 1 character died that round, gain 1 soul shard up to {2 * Level} max shards. When you attack using your action and succeed, deal {Soul Shards d6} extra damage, if the target is Prone, Restrained, Disabled, or Stunned, deal {Soul Shards d8} instead.\nDestroy Soul: After Succeeding an Attack that doesn’t have the benefit of your soul reaper. Deal extra damage as if you had triggered your soul reaper, then lose 1 soul shard.\nYou lose all soul shards at the end of the encounter. Taking soul shard generating methods multiple times doesn’t increase the number of shards you gain on kill or start with.",
+    "epicAdvantagesID": "epic_method_soul_reaper",
+    "resources": [
+      {
+        "name": "Soul Shards",
+        "maxCalculation": "{2 * Level}",
+        "statProviderID": "Soul Shards"
+      }
+    ]
+  },
+  {
+    "id": "method_spore_spreader",
+    "name": "Spore Spreader",
+    "effectAdventuring": "Use a method: infect an object with spores. The spores are invisible and you may see from them. You may at any time bloom the spores into mushrooms which destroy anything organic and disable any machine until removed.",
+    "effectCombat": "Use a method: place a spore on yourself or an ally. When the target succeeds an attack or defense, you may remove the spore and deal {Half Level d6} damage to enemies adjacent to the target and heal allies adjacent to the target the same amount.",
+    "epicAdvantagesID": "epic_method_spore_spreader"
+  },
+  {
+    "id": "method_streamer",
+    "name": "Streamer",
+    "effectAdventuring": "Use a Method: You have your stream subs or other internet friends study something for you, finding out information obtainable as if they had spent downtime studying.",
+    "effectCombat": "Use a Method: Get a simple reminder about something in the situation that you forgot from the DM. If there isn’t, either regain the method or gain 1 speed until the start of your next turn.",
+    "epicAdvantagesID": "epic_method_streamer"
+  },
+  {
+    "id": "method_stride",
+    "name": "Stride",
+    "effectAdventuring": "Spend a Method then You teleport a short distance to a place you can see.",
+    "effectCombat": "Spend a Method then until the start of your next turn you teleport up to your speed instead of moving. At the Start of the round, you may teleport to a free space range {Level}.",
+    "epicAdvantagesID": "epic_method_stride"
+  },
+  {
+    "id": "method_summoner",
+    "name": "Summoner",
+    "effectAdventuring": "At the start of any scene involving you or a party member, Use a method: send your summons to help them. You and any party members in the scene gain a +1 to any skills that you are proficient in. The DM may delay the arrival of summons in the scene, if they arrive after any checks are made, regain the method and describe how your summons return let down.",
+    "effectCombat": "Use a Method: While concentrating on Summoning, at the start of your turn, place a Summon into a free space within 6, then move all your summons up to 6 spaces. Then any enemy adjacent to at least 1 Summon takes {Half Level d6} damage. Summons are Medium Pawn Chumps that use your defenses. You may have at most {Half Level} summons, and summons last until the end of the situation.",
+    "epicAdvantagesID": "epic_method_summoner",
+    "resources": [
+      {
+        "name": "Summons",
+        "maxCalculation": "{Half Level}"
+      }
+    ]
+  },
+  {
+    "id": "method_through",
+    "name": "Through",
+    "effectAdventuring": "Use a Method: You make a hole big enough for a character to fit through in any wall, floor or ceiling.",
+    "effectCombat": "Use a Method: You move through enemies' spaces until the start of your next turn. The first time you move through each enemy, deal them {Half Level d10} damage.",
+    "epicAdvantagesID": "epic_method_through"
+  },
+  {
+    "id": "method_truth_seeker",
+    "name": "Truth Seeker",
+    "effectAdventuring": "Use a Method: You ask someone if what they said was a lie, and they must tell you if it was. Then you must truthfully explain why you're asking.",
+    "effectCombat": "Use a Method: You can ask either what defenses all their abilities target, or what defenses they resist and get a truthful answer.",
+    "epicAdvantagesID": "epic_method_truth_seeker"
+  },
+  {
+    "id": "method_understanding",
+    "name": "Understanding",
+    "effectAdventuring": "Use a Method: You know what a character you can see currently wants, and if they are a threat to you or your allies.",
+    "effectCombat": "Use a Method: the DM tells you clearly what the objectives currently are for the situation you are in.",
+    "epicAdvantagesID": "epic_method_understanding"
+  },
+  {
+    "id": "method_wall_walker",
+    "name": "Wall Walker",
+    "effectAdventuring": "Use a Method: You may walk on any wall or ceiling for the remainder of the scene.",
+    "effectCombat": "While concentrating, when you end your turn adjacent to a wall or are on the ceiling you are wall walking. While wall walking gain +1 to Str, Dex, Vitality defenses and +1 to attacks that target those defenses. You cannot be flanked. You still block your space while on the walls or most ceilings.\nIf the ceiling is too tall to make melee attacks, you don’t block the space but use the space at ground level below you for deciding range subtracting 1 from the range. Your ranged attacks you make have disadvantage, and ranged attacks against you have disadvantage.",
+    "epicAdvantagesID": "epic_method_wall_walker"
+  },
+  {
+    "id": "method_warrior",
+    "name": "Warrior",
+    "effectAdventuring": "Use a Method: make a threat. For the rest of the scene, as long as you are holding your weapon, you and your allies gain +1 to Convince, and +1 to Cha defense.",
+    "effectCombat": "During your turn, spend a method then Target an enemy with a weapon you are holding. Make a Weapon Attack with a source value of {level} and +1 to success. You may only trigger this {Source /4} times each turn.",
+    "epicAdvantagesID": "epic_method_warrior"
+  },
+  {
+    "id": "method_water_weaver",
+    "name": "Water Weaver",
+    "effectAdventuring": "Use a Method: Summon a wave of water that crashes through the room moving objects and characters about. Most devices are waterproof but anything that can’t handle being suddenly moved is broken.",
+    "effectCombat": "Target a 1 space radius and each enemy there becomes Soggy until the end of the next round. While soggy, You and Your allies deal {Half Level d6} Damage whenever they Succeed with an Attack or Status Check that deals damage against the target.",
+    "epicAdvantagesID": "epic_method_water_weaver"
+  },
+  {
+    "id": "method_weed_weaver",
+    "name": "Weed Weaver",
+    "effectAdventuring": "Use a Method: Cause plants to grow and restrain a creature or device.",
+    "effectCombat": "When you succeed on an attack, spend a method and choose 1 of the targets, placing a weed in one of their spaces and restraining them until the start of your next turn. The weeds are difficult terrain for your enemies and last for the situation or till destroyed. You may target Melee attacks from the location of the weeds.",
+    "epicAdvantagesID": "epic_method_weed_weaver"
+  },
+  {
+    "id": "method_wind_weaver",
+    "name": "Wind Weaver",
+    "effectAdventuring": "Use a Method: You create a strong gust of wind that blast all characters and loose objects in a room sized area. You cannot exclude targets from the areas you affect.",
+    "effectCombat": "Use a method: Target yourself and up to {Half Level} other creatures and force them to dash up to {Level} spaces all in the same direction.",
+    "epicAdvantagesID": "epic_method_wind_weaver"
+  },
+  {
+    "id": "method_venomous",
+    "name": "Venomous",
+    "effectAdventuring": "Use a Method: You dart an enemy, causing them to fall asleep till tomorrow. The first time each scene you use this while hiding, you don’t break your concealment.",
+    "effectCombat": "When you succeed on an attack, Use a method: Give the targets your Venom. At the end of their turn, make a Status check vs Vit, on Problems end the effect. When you pick this, choose one of the below effects for your venom.",
+    "epicAdvantagesID": "epic_method_venomous",
+    "options": [
+      {
+        "name": "Slow",
+        "effect": "Reduce their speed by {Half Level}."
+      },
+      {
+        "name": "Sicken",
+        "effect": "The target halves all healing and shields."
+      },
+      {
+        "name": "Deadly",
+        "effect": "The targets take {Half Level d6} extra damage."
+      },
+      {
+        "name": "Disable",
+        "effect": "on a Melee only, Choose a defense, you and your allies have advantage on attacks targeting that defense against the target.",
+        "choicePrompt": "Defense",
+        "choices": [
+          "Str",
+          "Dex",
+          "Vit",
+          "Int",
+          "Wis",
+          "Cha"
+        ]
+      }
+    ]
+  }
+]
