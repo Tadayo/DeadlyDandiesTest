@@ -139,7 +139,7 @@
   {
     "id": "method_hemomancer",
     "name": "Hemomancer",
-    "effectAdventuring": "If you have blood, vital essence, or any physical evidence left from a wound from a character. Use a method: see the current location of the character.",
+    "effectAdventuring": "If you have blood, vital essence, or any physical evidence left from a wound from a character. Use a method: you see the character and immediately around them in your mind. You also know their exact location as long as you have the sample.",
     "effectCombat": "After you succeed with a melee attack, Use a method: heal {half Level d8}.\nNova: Use a Method: Lose {Half Level d6} health ignoring shield and resistance then deal {Half level d12} damage to enemies within {Half Level} that ignores shield and resistance.",
     "epicAdvantagesID": "epic_method_hemomancer"
   },
@@ -220,6 +220,13 @@
     "epicAdvantagesID": "epic_method_otherworldly"
   },
   {
+    "id": "method_overclock",
+    "name": "Overclock",
+    "effectAdventuring": "Spend a Method: Overclock you or an ally. For the rest of the scene, they roll checks with +1 to success but they gain either 1 exhaustion or stress at the end of the encounter.",
+    "effectCombat": "Target yourself or an ally. They gain a +1 to check results and at the start of their turn roll 1d6, taking that much damage and may move that many extra spaces on their turn. They may roll up to {Vitality} extra d6 for more extra movement.",
+    "epicAdvantagesID": "epic_method_overclock"
+  },
+  {
     "id": "method_phasing",
     "name": "Phasing",
     "effectAdventuring": "If you have to make a defense but have not made any checks in this scene, Use a method: and succeed on the defense. Describe how you phased to avoid the check and doing this counts as a check for future defenses.",
@@ -290,7 +297,7 @@
     "id": "method_rainbow_weaver",
     "name": "Rainbow Weaver",
     "effectAdventuring": "Use a Method: Until the end of the scene, the first time you make a skill check with each of the skills, gain a +1 to the result.",
-    "effectCombat": "When you succeed an attack, Use a method: do one of the below based on which defense the attack targets.\nStr: knock the targets prone and push them {Half Level} spaces.\nDex: Give the targets {Half Level} d6 Bleed.\nVit: Give the targets {Half Level} d6 burn.\nInt: deal {Half Level d6} damage to enemies within 2 of the target, excluding the target.\nWis: reduce the target's speed by {Half Level} until the start of your next turn.\nCha: Give an ally range {Level} of the target or you, {Half Level d6} shield.",
+    "effectCombat": "When you succeed an attack, Use a method: do one of the below based on which defense the attack targets.\nStr: knock the targets prone and push them {Half Level} spaces.\nDex: Give the targets {Half Level} d6 Bleed.\nVit: Deal {Half Level} d8 extra damage.\nInt: deal {Half Level d6} damage to enemies within 2 of the target, excluding the target.\nWis: reduce the target's speed by {Half Level} until the start of your next turn.\nCha: Give an ally range {Level} of the target or you, {Half Level d6} shield.",
     "epicAdvantagesID": "epic_method_rainbow_weaver"
   },
   {
@@ -375,7 +382,14 @@
     "name": "Streamer",
     "effectAdventuring": "Use a Method: You have your stream subs or other internet friends study something for you, finding out information obtainable as if they had spent downtime studying.",
     "effectCombat": "Use a Method: Get a simple reminder about something in the situation that you forgot from the DM. If there isn’t, either regain the method or gain 1 speed until the start of your next turn.",
-    "epicAdvantagesID": "epic_method_streamer"
+    "epicAdvantagesID": "epic_method_streamer",
+    "complications": [
+      {
+        "id": "complication_streamer_on_camera",
+        "name": "On Camera",
+        "effect": "You must share personal or compromising information about a party member during a scene."
+      }
+    ]
   },
   {
     "id": "method_stride",
@@ -402,7 +416,14 @@
     "name": "Through",
     "effectAdventuring": "Use a Method: You make a hole big enough for a character to fit through in any wall, floor or ceiling.",
     "effectCombat": "Use a Method: You move through enemies' spaces until the start of your next turn. The first time you move through each enemy, deal them {Half Level d10} damage.",
-    "epicAdvantagesID": "epic_method_through"
+    "epicAdvantagesID": "epic_method_through",
+    "complications": [
+      {
+        "id": "complication_through_another_side",
+        "name": "There's another side?",
+        "effect": "You must interrupt another player's skit to their detriment. They must become frustrated with you."
+      }
+    ]
   },
   {
     "id": "method_truth_seeker",
