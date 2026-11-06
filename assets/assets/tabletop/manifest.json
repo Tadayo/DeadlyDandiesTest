@@ -1,0 +1,560 @@
+[
+  {
+    "path": "assets/tabletop/kenney_racing_pack/props/barrel_blue.png",
+    "hash": "787646fe5b9e45a83fc9024ea46e70035645a09cff66adf3d829a8154b40efc2",
+    "kind": "prop",
+    "name": "Barrel Blue"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/props/barrel_red.png",
+    "hash": "ff7739d3dbbf111d3149c72ef63bc76fb04d0a78185206d1bb925270ec038076",
+    "kind": "prop",
+    "name": "Barrel Red"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/props/cone_straight.png",
+    "hash": "6d18e666827c4d175b13d2b038ff95f0b0bcba2a256a7e69a9e37684d747ea8f",
+    "kind": "prop",
+    "name": "Cone Straight"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/props/oil.png",
+    "hash": "2610286d781597518b92b55c1a58a3a6f978cf4393354b23c19e223cd0b3fbc6",
+    "kind": "prop",
+    "name": "Oil"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/props/rock1.png",
+    "hash": "5ef37de9ca7f6bb01c1504beaef23aeae5664aa4a386f7e9943253687eb6251f",
+    "kind": "prop",
+    "name": "Rock 1"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/props/rock2.png",
+    "hash": "c86996ac474d7bc3597736a47a787ee4c710fc2b725bc59fc958bf6ab4e533de",
+    "kind": "prop",
+    "name": "Rock 2"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/props/rock3.png",
+    "hash": "4491cc7e130e5bfc6af6ef56a49e40ca958af70f937eaa546c6e22c3d8ae0e7f",
+    "kind": "prop",
+    "name": "Rock 3"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/props/tent_blue.png",
+    "hash": "3cd507d385cc466bfefe4bd21c441ccbeae3d75e4c09627beb3b5be4453fe673",
+    "kind": "prop",
+    "name": "Tent Blue"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/props/tent_red.png",
+    "hash": "d6be53fb6a9adad1787b450e86e6d2112b1409df0922b2a35db4665726b89e30",
+    "kind": "prop",
+    "name": "Tent Red"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/props/tires_red.png",
+    "hash": "9e34857075fede33218139967fee9c233bca2b2db8adc6b6c6c2310c3c983426",
+    "kind": "prop",
+    "name": "Tires Red"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/props/tires_white.png",
+    "hash": "6ed04a7f39207db3ba13bbeff4162d58a2f3b3721e931bcbe5a3e0ef77d458f5",
+    "kind": "prop",
+    "name": "Tires White"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/props/tree_large.png",
+    "hash": "7fc2929a7ea0702879ca4e11812c0c9cc41210f6c90cfef40fb9848b434ea20c",
+    "kind": "prop",
+    "name": "Tree Large"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/props/tree_small.png",
+    "hash": "c04b926f397b37240a82e51f403b93e70b8f7d20470f37546b539b0f3ab9a8a5",
+    "kind": "prop",
+    "name": "Tree Small"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/tokens/car_black.png",
+    "hash": "d16723977bec36539b3975bd8b60d7041238145bc8447c4f0a98e6dafb525da7",
+    "kind": "token",
+    "name": "Car Black"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/tokens/car_blue.png",
+    "hash": "9d91d072f7fbb6b131758a1aa82dae1b0a5516fbc4291d05d07a25e45f62c7e1",
+    "kind": "token",
+    "name": "Car Blue"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/tokens/car_green.png",
+    "hash": "9b0ad27b44418d72e2af7eb6308a9bd0e159c4df47527e0bff00959b74bb1978",
+    "kind": "token",
+    "name": "Car Green"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/tokens/car_red.png",
+    "hash": "79404959c397b101c65399042c0d9075ad016c34ff7fcfe019dce7d6fd5354b1",
+    "kind": "token",
+    "name": "Car Red"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/tokens/car_yellow.png",
+    "hash": "04aafcbc0cde3a73a12b8d1a281679f82209cf6be303a7c2d501f41bd262dcfe",
+    "kind": "token",
+    "name": "Car Yellow"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/tokens/motorcycle_black.png",
+    "hash": "19be2dc838eb7540f86462dce6b972d0da5c95d597bbf8c7be43531ee9efbe16",
+    "kind": "token",
+    "name": "Motorcycle Black"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/tokens/motorcycle_blue.png",
+    "hash": "01c5478e13fb8d8d60cef20869b27af18f9037b2c9099c576eaa5e7a3ab40a5a",
+    "kind": "token",
+    "name": "Motorcycle Blue"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/tokens/motorcycle_green.png",
+    "hash": "98fbd9833268091de27dd278c08dabd13056dd172b8e473bf23f4d3c3c26ee2f",
+    "kind": "token",
+    "name": "Motorcycle Green"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/tokens/motorcycle_red.png",
+    "hash": "2c05cdd38330c3339cc33952d0634a529f658f1444d36fec45f066b965fb37d2",
+    "kind": "token",
+    "name": "Motorcycle Red"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/tokens/motorcycle_yellow.png",
+    "hash": "4ce96a3dccbed9511f26ad3eec062c594b28942e9190eb030e340cc45011f853",
+    "kind": "token",
+    "name": "Motorcycle Yellow"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/tokens/racer_black.png",
+    "hash": "0e33ef08ab69698b0a94a5c5d8d7809ca331186a4883c03dc76899810c3e167e",
+    "kind": "token",
+    "name": "Racer Black"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/tokens/racer_blue.png",
+    "hash": "c2c0875c07d5a9105868ce99cd7676a95622f4ddb2ecb436b95ef277727cde2a",
+    "kind": "token",
+    "name": "Racer Blue"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/tokens/racer_green.png",
+    "hash": "36c90538b2d3cbd667c2b57ac3cc68b53a40edd134cfa857cd05958af71b869d",
+    "kind": "token",
+    "name": "Racer Green"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/tokens/racer_red.png",
+    "hash": "0080c6c5bcf2885364d2f44d6de297544c5f41252740df8251552bf19ab1965c",
+    "kind": "token",
+    "name": "Racer Red"
+  },
+  {
+    "path": "assets/tabletop/kenney_racing_pack/tokens/racer_yellow.png",
+    "hash": "b2b5a225905200b57d5912e5ce2cc818f6be60361ab7c23f5fa257cc3633fd0f",
+    "kind": "token",
+    "name": "Racer Yellow"
+  },
+  {
+    "path": "assets/tabletop/kenney_tiny_dungeon/tiles/tiny_dungeon.png",
+    "hash": "59991f735241b5824a51a7d9e144698938a4e983bae09d465427880f811ecd71",
+    "kind": "tile",
+    "name": "Tiny Dungeon",
+    "tileSize": 16,
+    "columns": 12,
+    "rows": 11
+  },
+  {
+    "path": "assets/tabletop/kenney_tiny_town/tiles/tiny_town.png",
+    "hash": "8cc028062e5f40b7a9047657b956f552a5379bd2bce19580cee7082e5a248666",
+    "kind": "tile",
+    "name": "Tiny Town",
+    "tileSize": 16,
+    "columns": 12,
+    "rows": 11
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/props/armchair_blue.png",
+    "hash": "92c4b333a711dbff4c4cac203df7973fd0d420e8d7c7f1a7aa6ab5f68a8d2b12",
+    "kind": "prop",
+    "name": "Armchair Blue"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/props/armchair_green.png",
+    "hash": "aa5a21dca22ee25241ff27590a19b3977880c7212dcb3a7c8d614599af0a6fcd",
+    "kind": "prop",
+    "name": "Armchair Green"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/props/armchair_grey.png",
+    "hash": "4a412824e937df9ad84cba5642ff15b5890bff78e603ca0775048b70cec1e641",
+    "kind": "prop",
+    "name": "Armchair Grey"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/props/armchair_grey_2.png",
+    "hash": "e67a4ca3d96ff9975f00e6c2a370af84102027065619bd506f4d7b6b006f3827",
+    "kind": "prop",
+    "name": "Armchair Grey 2"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/props/armchair_orange.png",
+    "hash": "3d437d8a10c32e99c1d0d6d7e50313c0ae0cc3b1285feab2bd0ec565642c0078",
+    "kind": "prop",
+    "name": "Armchair Orange"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/props/armchair_orange_2.png",
+    "hash": "d29117a545a4296940acf7d8bc64e67ccadd5a95c8be9d8f9afb3946f502037e",
+    "kind": "prop",
+    "name": "Armchair Orange 2"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/props/bush_green.png",
+    "hash": "b4e06204e37171f8992ba1d4cf0451a7941db8faf5618af62adebbc2fe1d16b5",
+    "kind": "prop",
+    "name": "Bush Green"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/props/bush_orange.png",
+    "hash": "abae045fb08be7c1bd191e59945ad08b2022d9187b4a27aae9dd8f073368f8fd",
+    "kind": "prop",
+    "name": "Bush Orange"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/props/chair_wood_1.png",
+    "hash": "b0f93154892db72d077166b77f44aa2bb67dd4dbc84908f479dc35584abf510f",
+    "kind": "prop",
+    "name": "Chair Wood 1"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/props/chair_wood_2.png",
+    "hash": "3e4428bd41a86cdfe5119ac0dfc373f2557082de6dd2de748199fbbefcc5121e",
+    "kind": "prop",
+    "name": "Chair Wood 2"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/props/chair_wood_3.png",
+    "hash": "f5eb1f7318b2282c9d2a28bed5fba89265f95005eac033d72f58b80fa39c9b13",
+    "kind": "prop",
+    "name": "Chair Wood 3"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/props/chair_wood_4.png",
+    "hash": "6cad4674437bba0cdef50b674475f1b2aabd57623962e0c07cd75636408cb11a",
+    "kind": "prop",
+    "name": "Chair Wood 4"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/props/crate_large.png",
+    "hash": "c2ec3fa9aff3c459d70828a4b0834722cdb3e323ed50e41de86368476993d3b2",
+    "kind": "prop",
+    "name": "Crate Large"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/props/crate_small.png",
+    "hash": "f15a19c39403a16432f996a122c96fd31ca9a81c0bfa59f9416c0ba0bb94ebe9",
+    "kind": "prop",
+    "name": "Crate Small"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/props/sofa_green.png",
+    "hash": "cb142537307991947ac0c71e0280944d74e4452aff349b9ed5b2902611d2505a",
+    "kind": "prop",
+    "name": "Sofa Green"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/props/sofa_grey.png",
+    "hash": "6efc38f84fed1b94643505929fb28f10595006b6bcbb45d0295dfb9ffcb2ec51",
+    "kind": "prop",
+    "name": "Sofa Grey"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/props/sofa_orange.png",
+    "hash": "229a52ae4fa13f77fde0ee9c080f01b6284c6658f3d0799dc03b4440a02f6d73",
+    "kind": "prop",
+    "name": "Sofa Orange"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/props/table_round.png",
+    "hash": "ebb842e56ab9f23e829baabc6f5e9d980f4d8cb126ae942d7a139417fb776a2e",
+    "kind": "prop",
+    "name": "Table Round"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/props/table_round_small.png",
+    "hash": "df4f613069f3f02549ac0e6b9fbea0e203a0a330380f38cf5ecf4e5cabbae106",
+    "kind": "prop",
+    "name": "Table Round Small"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/tokens/hitman_gun.png",
+    "hash": "f057584d2b9cd85a2123f57d555c91fd6d6017c62e308967ca25aa7209caa431",
+    "kind": "token",
+    "name": "Hitman Gun"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/tokens/hitman_stand.png",
+    "hash": "f4c0a689237bb6360af0f90d07b3682b353e4bd652ae666e323a6dc5948b4ed7",
+    "kind": "token",
+    "name": "Hitman Stand"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/tokens/man_blue_gun.png",
+    "hash": "2bbd49700f77e530183d53701f1d1332b5a88153c86ace8cf9f431ed75f3b6e4",
+    "kind": "token",
+    "name": "Man Blue Gun"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/tokens/man_blue_stand.png",
+    "hash": "070bb919f75d5b1edab1a2e18d75a78aac48805324be3fb3f72c44b9a9d5817e",
+    "kind": "token",
+    "name": "Man Blue Stand"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/tokens/man_brown_gun.png",
+    "hash": "0ce5a4f6141b13433b09c624321b3aa2d6198cb28b3d945bbc7505e60a0e4664",
+    "kind": "token",
+    "name": "Man Brown Gun"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/tokens/man_brown_stand.png",
+    "hash": "b1ad4901a2ded6f7161934eee7dede0d081efc042ede500f2365f1b8ae3797fb",
+    "kind": "token",
+    "name": "Man Brown Stand"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/tokens/man_old_gun.png",
+    "hash": "e730b673776db41867de686db01cd2f9351f0dc35e8a89bcc60864520f1a6f5c",
+    "kind": "token",
+    "name": "Man Old Gun"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/tokens/man_old_stand.png",
+    "hash": "37484f6771009c6ea113196684a13a3c1e00e619f1f6a5839755055360cd4502",
+    "kind": "token",
+    "name": "Man Old Stand"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/tokens/robot_gun.png",
+    "hash": "bdc7cabc9263d99c1337706e103b35526e30be431bd14fd323a2e6b20a45c209",
+    "kind": "token",
+    "name": "Robot Gun"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/tokens/robot_stand.png",
+    "hash": "8fe75ae65f162a6d30b403697bafc06de01ab86219b8d0b9d26e8ec10246fd27",
+    "kind": "token",
+    "name": "Robot Stand"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/tokens/soldier_gun.png",
+    "hash": "ea83cf8614522d3fd5ade995e0bc48d882a894dbc5e5b31254197d913f8a563b",
+    "kind": "token",
+    "name": "Soldier Gun"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/tokens/soldier_stand.png",
+    "hash": "22b895aa9006d2f23df8360f0347714665e8fd36ab3c1307b642356aef85ab89",
+    "kind": "token",
+    "name": "Soldier Stand"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/tokens/survivor_gun.png",
+    "hash": "025b7d97241e26e4381ed212c18a156c2be468bd118a74be7c4da2e6ad1534a2",
+    "kind": "token",
+    "name": "Survivor Gun"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/tokens/survivor_stand.png",
+    "hash": "df72cc737b9a557be40ecd3dfba665aa4f3621ebe60842645be8a22a8176255b",
+    "kind": "token",
+    "name": "Survivor Stand"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/tokens/woman_green_gun.png",
+    "hash": "41e185d4b272ca4c35e2833d0562100958127c5e72dc252e0187f05d60aa72b7",
+    "kind": "token",
+    "name": "Woman Green Gun"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/tokens/woman_green_stand.png",
+    "hash": "ad5c33d2899e11cdeffce5cd9ebdb944743230f4c78ef93e6179df3639dd617a",
+    "kind": "token",
+    "name": "Woman Green Stand"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/tokens/zombie_gun.png",
+    "hash": "98fe893d080cf42402432c4e99d7a98c586a040cfa5c37f67b4a03219afab466",
+    "kind": "token",
+    "name": "Zombie Gun"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_shooter/tokens/zombie_stand.png",
+    "hash": "af6235c4deaf00a4d92c06b9183541ab513545c0de170b2b44408bebc4ca14b9",
+    "kind": "token",
+    "name": "Zombie Stand"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/props/barrelBlack_top.png",
+    "hash": "9e4001fd584cccedb706df0fb2b80b9c094a5c4f1dce08b4bd3fec9c6bee0a94",
+    "kind": "prop",
+    "name": "Barrel Black Top"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/props/barrelGreen_top.png",
+    "hash": "e8fccacef2d34323c2e6055e32d343a1254837834620d0aecb74e0d5cfcb6a7e",
+    "kind": "prop",
+    "name": "Barrel Green Top"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/props/barrelRed_top.png",
+    "hash": "3283053dae3cc707de6dfa08c6f712d17cb1b6185b9e96efdd8a27c2e8e6e28e",
+    "kind": "prop",
+    "name": "Barrel Red Top"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/props/barrelRust_top.png",
+    "hash": "a6f607c0e317fa4a00121a94e45550e5804d3a060433575259d001d02a007706",
+    "kind": "prop",
+    "name": "Barrel Rust Top"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/props/barricadeMetal.png",
+    "hash": "9bffa663e4ec7aec6a49a2f8ec632062dc9a3acbf4452fcff0b3fb7869e65caa",
+    "kind": "prop",
+    "name": "Barricade Metal"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/props/barricadeWood.png",
+    "hash": "1e247da817b369f0e652d8f67261786c4875dfde2c2434c9cce8bfbc338dd82c",
+    "kind": "prop",
+    "name": "Barricade Wood"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/props/crateMetal.png",
+    "hash": "d9d63a0d774c1f5159729de6a0debc6dde161550e56d753bf8345a545e23ddbd",
+    "kind": "prop",
+    "name": "Crate Metal"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/props/crateWood.png",
+    "hash": "34fd48578e32af92f2268994d3a27071385b9305332c53ac78158c3224e7d304",
+    "kind": "prop",
+    "name": "Crate Wood"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/props/fenceRed.png",
+    "hash": "c4fed24f2b8858e24a16bd4ee09f59a90b003d0f962e6fd5aaebd296e9f0065d",
+    "kind": "prop",
+    "name": "Fence Red"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/props/fenceYellow.png",
+    "hash": "d6ecffb0dc1477f966ec66751f9c48fad0a8f18631b5d60d99d9a4de18c16516",
+    "kind": "prop",
+    "name": "Fence Yellow"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/props/oilSpill_large.png",
+    "hash": "bd5a98f0fa7314a571a1574a0888ec47503391b44f0159ba032c578065358027",
+    "kind": "prop",
+    "name": "Oil Spill Large"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/props/sandbagBeige.png",
+    "hash": "b3c5338b7259a5a7f9f6f1eb3c67fe67ac10b086d3ba41285efd6423fef742a1",
+    "kind": "prop",
+    "name": "Sandbag Beige"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/props/sandbagBrown.png",
+    "hash": "a95e67bb7dfa361ba9ab9b8797375a9049914bc72c65b41576beffb04f27e2c0",
+    "kind": "prop",
+    "name": "Sandbag Brown"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/props/treeBrown_large.png",
+    "hash": "3ad4e121338a17829416fa592182e1176d87cc1de5cdeb744eb3dfb4c22a4957",
+    "kind": "prop",
+    "name": "Tree Brown Large"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/props/treeBrown_small.png",
+    "hash": "7a2a984d116d607731542bce893ac96dd5e591cb120a7471ad3ae940811d712d",
+    "kind": "prop",
+    "name": "Tree Brown Small"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/props/treeGreen_large.png",
+    "hash": "3df5b9bca9a9ec72fa56b6c5f282272de69b0558b507994ad49c282c9a281e85",
+    "kind": "prop",
+    "name": "Tree Green Large"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/props/treeGreen_small.png",
+    "hash": "8f67164e80fb07441ff374780f163fbce93cfd8ffaf71973b28d6313118091d9",
+    "kind": "prop",
+    "name": "Tree Green Small"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/tokens/tank_bigRed.png",
+    "hash": "d15cf6ff057768e6c0c44c658fd513c4cc6cd1b8cfc436055c3303fc5067efb3",
+    "kind": "token",
+    "name": "Tank Big Red"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/tokens/tank_blue.png",
+    "hash": "79bff1a69190fe5e4623afa893a66da5a6aadf0d8b2b722dc5b300b4aa114f3d",
+    "kind": "token",
+    "name": "Tank Blue"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/tokens/tank_dark.png",
+    "hash": "47349502ba2c4c4867f3f2b557d9814eec2a2f9b1e8774ab709ac15845bfc7a2",
+    "kind": "token",
+    "name": "Tank Dark"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/tokens/tank_darkLarge.png",
+    "hash": "e10914328d78777984fc1f1e95011043620eb699929db6aac83959876e2de763",
+    "kind": "token",
+    "name": "Tank Dark Large"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/tokens/tank_green.png",
+    "hash": "de6599c9075551df6ca8bb0e7c43f430d26c4c5b4d159b81fc6ab751f24276a2",
+    "kind": "token",
+    "name": "Tank Green"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/tokens/tank_huge.png",
+    "hash": "3e918ca1a337fd13006c08fc67c9afd7894d1e22c42f89a042991d9bf2572c36",
+    "kind": "token",
+    "name": "Tank Huge"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/tokens/tank_red.png",
+    "hash": "7dbce365033d0e84219c84da2b5b1e53dd06e30e785225f3a02f7005e82ba0df",
+    "kind": "token",
+    "name": "Tank Red"
+  },
+  {
+    "path": "assets/tabletop/kenney_top_down_tanks/tokens/tank_sand.png",
+    "hash": "6e3b438b1cf886d0e9ec5278bc02c57a85b0fc7e2667a8574dd1857fe6fda4ae",
+    "kind": "token",
+    "name": "Tank Sand"
+  }
+]
